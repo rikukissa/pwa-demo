@@ -1,0 +1,30 @@
+{
+  "name": "grow2",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@types/lodash-es": "^4.17.4",
+    "@vardius/react-user-media": "^1.0.1",
+    "konva": "^7.2.4",
+    "localforage": "^1.9.0",
+    "lodash-es": "^4.17.20",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "react-konva": "^17.0.1-3",
+    "react-spring": "^8.0.27",
+    "react-swipeable": "^6.0.1",
+    "react-with-gesture": "^4.0.8",
+    "use-user-media": "^0.1.8"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "@vitejs/plugin-react-refresh": "^1.1.0",
+    "typescript": "^4.1.2",
+    "vite": "3.2.4"
+  }
+}
